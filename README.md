@@ -1,7 +1,5 @@
 # Welcome to ACP-DSCS
 ![Alt text](https://github.com/acp-dscs/DS_Bootcamp_Tasks/blob/main/ACP%20Profile%20Picture.jpg)
-
-
 - 👋 Hi, I’m [@acp-dscs](https://github.com/acp-dscs)
 
 Passionate and dynamic professional with over five years of experience in the Financial and Remediation Sectors.
